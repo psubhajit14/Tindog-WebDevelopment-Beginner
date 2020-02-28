@@ -1,0 +1,58 @@
+.nav-item{
+    padding: 0 3% 0 0;
+}
+
+.coloured{
+    background-color:  #E84579;
+    color: white;
+}
+
+#title,.carousel-inner,#pricing,#cta,#footer{
+    padding: 3% 15%;
+    text-align: center;
+    
+}
+.heading , .testimonial-text{
+    font-family: "Montserrat-Black";  
+    font-size: 3rem;
+}
+#testimonials{
+    padding: 15%;
+}
+.testimonial-text{
+    font-size: 2rem;
+}
+.testimonial-image{
+    margin: 15% 0 0 0;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.navbar-brand{
+    font-family: Pacifico; 
+}
+.row{
+    padding: 15% 5%;
+}
+
+.btn{
+    margin:15% 3%;
+}
+#cta .btn{
+    margin:2%;
+}
+.iphone-img {
+    transform:rotate(30deg);
+}
+
+.col-lg-4 {
+    text-align: center;
+}
+
+.fa-5x{
+    color: red;
+    margin:4%;
+}
+.fa-2x{
+    margin: 2% 1%;
+}
